@@ -32,5 +32,6 @@
 
 ***This will only be done if opening the wall in the closet to bathroom conversion reveals a requirement to open the floor in the existing bathroom***
 
-1. Centered around a Duravit Paiova monolith bathtub or similar (triangular 2-person tub with approx 1m max width)
-2. 
+1. Centered around a Duravit Paiova monolith bathtub or similar (triangular 2-person tub with approx 1m max width). It doesn't have to be this tub, what we like about it is the angled nature since it maximizes space use.
+2. Remove walls around stackable washer/dryer and finish the 
+3. Tile the floor with new tile
