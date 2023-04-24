@@ -8,7 +8,7 @@
 
 3. To the left of the corner cabinet, build and install a custom wall cabinet and base cabinet to fill the gaps that exist in the 3D image of the proposed kitchen.
 
-4. The dishwasher power source comes out of the floor and will need to be moved approximately 12" so that it comes up under the new island.
+4. The dishwasher power source comes out of the floor and will need to be moved approximately 12" so that it comes up under the new island. A separate new circuit will need to be installed for the new dishwasher. The receptical in the island will be on the back of the island opposite the drawers which open into the kitchen.
 
 5. There is already a power source for the fridge. The new kitchen design leaves 48" wide for counter-depth fridge and freezer (individual units). We will tentatively install this [fridge](https://www.canadianappliance.ca/product/LG_LRONC1404V_Column_Refrigerators_LG_LRONC1404V.html) and [freezer](https://www.canadianappliance.ca/product/LG_LROFC1104V_Upright_Freezers_LG_LROFC1104V.html). If the electrical code requires a separate recepticle for each, install a second outlet. Otherwise the existing one is fine.
 
@@ -18,21 +18,23 @@
 
 8. Change the electrical panel in the walk-in closet (which will become the new bathroom) to face the other way, now inside the custom jacket cabinet.
 
-9. The hallway closet will be the location for the new hot water tank. It will also be tiled with the new flooring being used. A larger hot water tank will be installed to accomodate a large bathtub.
+9. The hallway closet will be the location for the new hot water tank. It will also be tiled with the new kitchen flooring being used. A larger hot water tank will be installed to accomodate a large bathtub.
 
-10. Cut the existing floor at least 156" from the back wall (behind the fridge) of the kitchen across the whole condo all the way to the closet door. If the frame of the closet door extends slightly beyond this, make the distance longer to accomodate. This is the other extreme of the renovation area opposite that mentioned in (1). Remove all existing laminate flooring in this area, apply necessary surface preparation and install new tile in this area, allowing penetrations for the power cable in the island and kitchen plumbing.
+10. Cut the existing floor at least 156" from the back wall (behind the fridge) of the kitchen across the whole condo all the way to the closet door. If the frame of the closet door extends slightly beyond this, make the distance longer to accomodate. This is the other extreme of the renovation area opposite that mentioned in (1). Remove all existing laminate flooring in this area, apply necessary surface preparation and install new tile in this area (including the hallway closet and the area where the jacket closet was removed), allowing penetrations for the power cable in the island and kitchen plumbing. The total amount of floor tile in the kitchen area is approximately 210 sq ft. with medium-dark grey, 12X24" matte tile (minimal variation in colour and texture) with light grey grout. 
 
-11. Install a Corian counter top and a backsplash of 3" * 6" subway tile in white with a grey grout. Install matching Corian sides on the island.
+11. Install a Corian counter top and a backsplash of 3" * 6" subway tile (regular, glossy white,no beval) with a light grey grout. Install matching Corian sides on the island, waterfall style.
 
 ## 2. Closet to Bathroom converion
 
 1. A receptical will be installed in the common area opposite outside the condo on the wall shared with the new bathroom.
-2. This will be a bathroom with a toilet, and a sink on a vanity and either a tub/shower combo (if there is no need to open the floor of the existing bathroom) OR a walk-in shower if opening the existing bathroom floor is required. If we're required to open the floor of the existing bathroom we will proceed with a full renovation.
-3. We can open the wall of the closet and remove all the drywall if you'd like us to take pictures to determine whether this is necessary. This may assist in planning and reduce costs.
+2. This will be a bathroom with a toilet, and a sink on a vanity and a tub/shower combination. If we're required to open the floor of the existing bathroom we will proceed with a full renovation of that bathroom as well.
+3. We can open the wall of the closet and remove all the drywall if you'd like. We can take pictures to determine whether tearing up the floor in the existing bathroom is necessary. This may assist in planning and reduce costs.
 4. A loose wire is in the ceiling of the existing bathroom running to a blank receptical in one of the bedrooms. This should be added to the electrical panel via the opening of the closed walls.
 5. We would prefer a shower mixer like Grohe thermostatic mixers with a rainshower plus hand shower.
-6. The bath (or shower) area would be 3" x 6" subway tile in white like the kitchen back splash. This tile would extend to the wall behind the sink and toilet.
+6. The bath area would be 3" x 6" subway tile in white with no bevel (like the kitchen back splash) with white epoxy grout. In the bath area, tile extends from bathtub to ceiling. This tile would then extend to the wall behind the sink and toilet, but only part way up the wall approximately 48" high. No tile on the wall opposite the sink/toilet or around the entry door.
 7. We will specify a wall-hung vanity and sink from IKEA.
+8. Floor tile, small, white, matte approx 1 inch hexagonal tile with dark grey grout.
+9. Toilet to be determined.
 
 ## 3. Existing Bathroom renovation
 
