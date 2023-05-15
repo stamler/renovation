@@ -27,7 +27,9 @@
 
 10. Cut the existing floor at least 156" from the back wall (behind the fridge) of the kitchen across the whole condo all the way to the closet door. If the frame of the closet door extends slightly beyond this, make the distance longer to accomodate. Also tile from the new jacket closet approx 49" out from the outside wall toward the far edge of the entrance door and extending 6-8" beyond the entrance door. This is the other extreme of the renovation area opposite that mentioned in (1). Remove all existing laminate flooring in this area, apply necessary surface preparation and install new tile in this area (including the hallway closet and the area where the jacket closet was removed), allowing penetrations for the power cable in the island and kitchen plumbing. The total amount of floor tile in the kitchen area is approximately 210 sq ft. with medium-dark grey, 12X24" matte tile (minimal variation in colour and texture) with light grey grout. 
 
-11. Install a Corian counter top and a backsplash of 3" * 6" subway tile (regular, glossy white,no beval) with a light grey grout. Install matching Corian sides on the island, waterfall style.
+11. At this point we will come in to install the IKEA cabinets. There will be a gap between the freezer and the cabinets (seen in the image rendering). Custom cabinets will be required to fill in the gap (bottom and uppers). We will also require custom cabinets above the fridge and freezer (2 cabinets equalling 48” wide total. Each approximately 18-21” tall, 24” wide, 24” deep). We will use IKEA doors on these custom cabinets so they match the rest of the kitchen.
+
+12. Install a Corian counter top and a backsplash of 3" * 6" subway tile (regular, glossy white,no beval) with a light grey grout. Install matching Corian sides on the island, waterfall style.
 
 ## 2. Closet to Bathroom converion
 
