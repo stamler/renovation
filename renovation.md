@@ -39,7 +39,7 @@
 6. The bath area would be 3" x 6" subway tile in white with no bevel (like the kitchen back splash) with white epoxy grout. In the bath area, tile extends from bathtub to ceiling. This tile would then extend to the wall behind the sink and toilet, but only part way up the wall approximately 48" high. No tile on the wall opposite the sink/toilet or around the entry door.
 7. We will specify a wall-hung vanity and sink from IKEA. [GODMORGON / ODENSVIK Bathroom vanity, 24” or 32” wide](https://www.ikea.com/ca/en/p/godmorgon-odensvik-bathroom-vanity-brown-stained-ash-effect-dalskaer-faucet-s09305186/)
 8. Floor tile, small, white, matte approx 1 inch hexagonal tile with dark grey grout.
-9. Toilet to be determined.
+9. Toilet would be American Standard Cosette 3.5L/4.8L Dual Flush Standard Height Elongated One-Piece Toilet in White or similar.
 
 ## 3. Existing Bathroom renovation
 
