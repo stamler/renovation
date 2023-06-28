@@ -13,7 +13,7 @@
 9. Two pendant lights over island (new)
 10. Dual light switch dimmers to control pendants and overhead light. Move existing hallway switch that controls overhead light to the left approx 1m
 
-## Bathroom
+## Closet to Bathroom converion
 
 1. Move light switch to location of existing electrical panel so it is not behind the new door
 2. Add switch for bathtub/shower light and fan in same box by the sink (new)
