@@ -7,6 +7,7 @@
 3. [Existing Bathroom renovation](#3-existing-bathroom-renovation)
 4. [Electrical Summary](electrical.md)
 5. [Plumbing Summary](plumbing.md)
+6. [Carpentry Summary](carpentry.md)
 
 ## 1. Kitchen
 
