@@ -1,11 +1,16 @@
 # Renovation
 
+## Table of Contents
+
+1. [Kitchen]
+2. [Closet to Bathroom converion]
+3. [Existing Bathroom renovation]
+4. [Electrical Summary](electrical.md)
+5. [Plumbing Summary](plumbing.md)
+
 ## 1. Kitchen
 
-![Render1](/kitchen_renders/kitchen1.png)
-![Render2](/kitchen_renders/kitchen2.png)
-![Render3](/kitchen_renders/kitchen3.png)
-![Render4](/kitchen_renders/kitchen4.png)
+![Render5](/kitchen_renders/kitchen5.png)
 
 1. Cut back the wall to the left of the existing fridge so that it is flush with the wall behind the fridge. Cut the existing flooring at the same point (in line with the back wall of the kitchen behind the fridge) This will be one extreme end of the renovation area. There is a switch on the section of the wall that will need to be moved further into the hall way. Add a second switch to control a pair of pendant lights that will hang over the island. Install two boxes in the ceiling for these lights. Power for these pendant lights can come from the existing overhead light in the kitchen so only switch wire needs to be installed.
 
