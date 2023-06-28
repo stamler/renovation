@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Kitchen](#1-kitchen)
-2. [Closet to Bathroom converion](#2-closet-to-bathroom-converion)
+2. [Closet to Bathroom conversion](#2-closet-to-bathroom-conversion)
 3. [Existing Bathroom renovation](#3-existing-bathroom-renovation)
 4. [Electrical Summary](electrical.md)
 5. [Plumbing Summary](plumbing.md)
@@ -36,7 +36,7 @@
 
 12. Install a Corian counter top and a backsplash of 3" * 6" subway tile (regular, glossy white,no beval) with a light grey grout. Install matching Corian sides on the island, waterfall style.
 
-## 2. Closet to Bathroom converion
+## 2. Closet to Bathroom conversion
 
 1. A receptical will be installed in the common area opposite outside the condo on the wall shared with the new bathroom.
 2. This will be a bathroom with a toilet, and a sink on a vanity and a tub/shower combination. If we're required to open the floor of the existing bathroom we will proceed with a full renovation of that bathroom as well.
