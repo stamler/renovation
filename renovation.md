@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-1. [Kitchen]
-2. [Closet to Bathroom converion]
-3. [Existing Bathroom renovation]
+1. [Kitchen](#1-kitchen)
+2. [Closet to Bathroom converion](#2-closet-to-bathroom-converion)
+3. [Existing Bathroom renovation](#3-existing-bathroom-renovation)
 4. [Electrical Summary](electrical.md)
 5. [Plumbing Summary](plumbing.md)
 
