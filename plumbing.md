@@ -10,3 +10,7 @@
 2. Drain to new tub/shower combo
 3. Rough-in Toilet cold water and sewer
 4. Rough-in hot/cold water and drain to new vanity
+
+## Other
+
+1. plumb in new hot water tank in hallway closet
