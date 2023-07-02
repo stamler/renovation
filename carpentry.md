@@ -10,6 +10,15 @@
 
 1. New door that opens in to the bathroom and to the left with door stop
 
-## Custom Hallway Closet
+## Custom Entrance Cabinet
 
 1. As described in renovation document.
+
+## Walls
+
+1. remove wall to the left of existing fridge to be replaced with IKEA cover panel
+2. remove entrance closet walls to be replaced with entrance cabinet
+
+## Flooring
+
+1. remove all laminate flooring from the condo within the construction zone
