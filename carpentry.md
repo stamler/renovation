@@ -9,6 +9,13 @@
 ## Closet to Bathroom conversion
 
 1. New door that opens in to the bathroom and to the left with door stop
+2. A custom vanity will be made by GG construction with the following specifications:
+    * Wood: Walnut (aesthetic [like this model](https://teodorvanities.ca/collections/vanities/products/austin-24-teodor-modern-wall-mount-american-black-walnut-vanity-w-blumotion))
+    * Goes to the floor with a toekick on the front but not the exposed side, which goes all the way to the floor (not wall hanging)
+    * 3 drawers— the two smaller uppers with notches around drain pipe, one large one on the bottom
+    * Since the vanity will be touching the wall on the right, the drawer will need to not extend all the way to the right.
+    * 20” x 20” drawer top dimensions
+    * Wall-mounted tap to reduce plumbing in the vanity. Fixtures chosen from PMF
 
 ## Custom Entrance Cabinet
 

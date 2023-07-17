@@ -9,9 +9,10 @@
 5. Extractor hood (existing, verify that it will be enough for microwave extractor, if not increase breaker size)
 6. Dishwasher (new)
 7. Existing dishwasher (move to under island as island outlet)
-8. Overhead light (replace fixture)
+8. Overhead light (replace fixture with pot lights as discussed in person)
 9. Two pendant lights over island (new)
-10. Dual light switch dimmers to control pendants and overhead light. Move existing hallway switch that controls overhead light to the left approx 1m
+10. Dual light switch dimmers to control pendants and overhead light. I have 4 Leviton D26HD dimmers already here. Two will be used for these (pendants and overhead lights). Move existing hallway switch that controls overhead light to the left approx 1m and add a second switch here in dual-gang.
+11. The pendant over the dining room table will be moved. It should be centred as follows: 192” from wall behind fridges and 73” from wall behind dishwasher.
 
 ## Closet to Bathroom converion
 
